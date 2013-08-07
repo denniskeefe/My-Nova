@@ -1,24 +1,4 @@
-<<<<<<< HEAD
-# ReadMe
+## Nova Project
 
+This site will be used to document the restoration of my 1972 Chevy Nova. I bought this car in April 2006 and began working on it, but somehow ended up putting it aside. I plan to start again on September 1, 2013 with the help of my teenage boys.
 
-## Deployment
-
-```
-ey deploy
-```
-Remove
-## Thanks
-
-The original scaffold for this application was created by [App Scrolls](http://appscrolls.org).
-
-The project was created with the following scrolls:
-
-* rails_basics
-* twitter_bootstrap
-* simple_form
-
-=======
-My-Nova
-=======
->>>>>>> a01cb98ae81c9595e9b345dfad65268c5bba77b5
