@@ -1,7 +1,13 @@
-Nova::Application.routes.draw do
-  root :to => 'home#index'
+Chevy::Application.routes.draw do
+  root :to => 'pages#home'
 
-  get "home/index"
+  get "pages/home"
+
+  get 'phaseone' => 'pages#phaseone'
+
+  get 'phasetwo' => 'pages#phasetwo'
+
+  get 'phasethree' => 'pages#phasethree'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

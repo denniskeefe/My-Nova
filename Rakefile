@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Nova::Application.load_tasks
+Chevy::Application.load_tasks

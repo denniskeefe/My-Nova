@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Nova::Application.config.secret_token = '3ba48cb1d17cf1cb41c219bffc90b39296d8675fead880a5f0d07eeb30f34e4b953333d4abb553d28653fbdaeb917f32714b187f47bf93fbbc2be4d893bd2da9'
+Chevy::Application.config.secret_token = '463622cb53476510d4f118cfa9478fd597ef2ba41d7a5aa80fbad7a0e4b07610dfe449ff997c2dbf5d641e33185e632035764793efd062db9df1018c1abc1b2f'
