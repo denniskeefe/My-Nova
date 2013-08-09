@@ -10,4 +10,8 @@ class PagesController < ApplicationController
 
   def phasethree
   end
+
+  def team
+  end
+  
 end
