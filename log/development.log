@@ -25631,3 +25631,1290 @@ Served asset /application.js - 304 Not Modified (0ms)
 
 Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2013-08-11 22:52:18 -0500
 Served asset /team.js - 304 Not Modified (0ms)
+
+
+Started GET "/phaseone" for 127.0.0.1 at 2013-08-11 23:14:19 -0500
+Processing by PagesController#phaseone as HTML
+  Rendered pages/phaseone.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_header.html.erb (0.8ms)
+Completed 200 OK in 23ms (Views: 22.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-11 23:14:19 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-08-11 23:14:19 -0500
+Served asset /pages.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-08-11 23:14:19 -0500
+Served asset /styles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2013-08-11 23:14:19 -0500
+Served asset /team.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:19 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:19 -0500
+Served asset /bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:19 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:19 -0500
+Served asset /bootstrap-affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:19 -0500
+Served asset /bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:19 -0500
+Served asset /bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:19 -0500
+Served asset /bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:19 -0500
+Served asset /bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:19 -0500
+Served asset /bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:19 -0500
+Served asset /bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:19 -0500
+Served asset /bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:19 -0500
+Served asset /bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:19 -0500
+Served asset /bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:19 -0500
+Served asset /bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:19 -0500
+Served asset /team.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:19 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:19 -0500
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:19 -0500
+Served asset /bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:19 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/phasetwo" for 127.0.0.1 at 2013-08-11 23:14:21 -0500
+Processing by PagesController#phasetwo as HTML
+  Rendered pages/phasetwo.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_header.html.erb (0.8ms)
+Completed 200 OK in 53ms (Views: 52.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-11 23:14:21 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-08-11 23:14:21 -0500
+Served asset /styles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-08-11 23:14:21 -0500
+Served asset /pages.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:21 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2013-08-11 23:14:21 -0500
+Served asset /team.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:21 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:21 -0500
+Served asset /bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:21 -0500
+Served asset /bootstrap-affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:21 -0500
+Served asset /bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:21 -0500
+Served asset /bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:21 -0500
+Served asset /bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:21 -0500
+Served asset /bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:21 -0500
+Served asset /bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:21 -0500
+Served asset /bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:21 -0500
+Served asset /bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:21 -0500
+Served asset /bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:21 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:21 -0500
+Served asset /bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:21 -0500
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:21 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:21 -0500
+Served asset /bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:21 -0500
+Served asset /team.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:21 -0500
+Served asset /bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/phasethree" for 127.0.0.1 at 2013-08-11 23:14:25 -0500
+Processing by PagesController#phasethree as HTML
+  Rendered pages/phasethree.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_header.html.erb (0.8ms)
+Completed 200 OK in 21ms (Views: 21.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-11 23:14:25 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-08-11 23:14:25 -0500
+Served asset /styles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-08-11 23:14:25 -0500
+Served asset /pages.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2013-08-11 23:14:25 -0500
+Served asset /team.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:25 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:25 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:25 -0500
+Served asset /bootstrap-affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:25 -0500
+Served asset /bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:25 -0500
+Served asset /bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:25 -0500
+Served asset /bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:25 -0500
+Served asset /bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:25 -0500
+Served asset /bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:25 -0500
+Served asset /bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:25 -0500
+Served asset /bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:25 -0500
+Served asset /bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:25 -0500
+Served asset /bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:25 -0500
+Served asset /bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:25 -0500
+Served asset /bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:25 -0500
+Served asset /bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:25 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:25 -0500
+Served asset /team.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:25 -0500
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:25 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/team" for 127.0.0.1 at 2013-08-11 23:14:27 -0500
+Processing by PagesController#team as HTML
+  Rendered pages/team.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+Completed 200 OK in 20ms (Views: 19.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-11 23:14:27 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:27 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:27 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2013-08-11 23:14:27 -0500
+Served asset /team.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-08-11 23:14:27 -0500
+Served asset /styles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-08-11 23:14:27 -0500
+Served asset /pages.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:27 -0500
+Served asset /bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:27 -0500
+Served asset /bootstrap-affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:27 -0500
+Served asset /bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:27 -0500
+Served asset /bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:27 -0500
+Served asset /bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:27 -0500
+Served asset /bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:27 -0500
+Served asset /bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:27 -0500
+Served asset /bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:27 -0500
+Served asset /bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:27 -0500
+Served asset /bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:27 -0500
+Served asset /bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:27 -0500
+Served asset /bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:27 -0500
+Served asset /bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:27 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:27 -0500
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:27 -0500
+Served asset /team.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:27 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-11 23:14:34 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.8ms)
+Completed 200 OK in 21ms (Views: 21.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-11 23:14:34 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2013-08-11 23:14:34 -0500
+Served asset /team.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-08-11 23:14:34 -0500
+Served asset /pages.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-08-11 23:14:34 -0500
+Served asset /styles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:34 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:34 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:34 -0500
+Served asset /bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:34 -0500
+Served asset /bootstrap-affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:34 -0500
+Served asset /bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:34 -0500
+Served asset /bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:34 -0500
+Served asset /bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:34 -0500
+Served asset /bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:34 -0500
+Served asset /bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:34 -0500
+Served asset /bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:34 -0500
+Served asset /bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:34 -0500
+Served asset /bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:34 -0500
+Served asset /bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:34 -0500
+Served asset /bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:34 -0500
+Served asset /bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:34 -0500
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:34 -0500
+Served asset /team.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:34 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-11 23:14:34 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-11 23:39:19 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+Completed 200 OK in 74ms (Views: 73.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-11 23:39:19 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2013-08-11 23:39:19 -0500
+Served asset /team.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-08-11 23:39:19 -0500
+Served asset /pages.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:19 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:19 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-08-11 23:39:19 -0500
+Served asset /styles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:19 -0500
+Served asset /bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:19 -0500
+Served asset /bootstrap-affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:19 -0500
+Served asset /bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:19 -0500
+Served asset /bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:19 -0500
+Served asset /bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:19 -0500
+Served asset /bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:19 -0500
+Served asset /bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:19 -0500
+Served asset /bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:19 -0500
+Served asset /bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:19 -0500
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:19 -0500
+Served asset /bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:19 -0500
+Served asset /bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:19 -0500
+Served asset /bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:19 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:19 -0500
+Served asset /bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:19 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:19 -0500
+Served asset /team.js - 304 Not Modified (0ms)
+
+
+Started GET "/phaseone" for 127.0.0.1 at 2013-08-11 23:39:21 -0500
+Processing by PagesController#phaseone as HTML
+  Rendered pages/phaseone.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_header.html.erb (0.8ms)
+Completed 200 OK in 22ms (Views: 21.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-11 23:39:21 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-08-11 23:39:21 -0500
+Served asset /pages.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-08-11 23:39:21 -0500
+Served asset /styles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:21 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2013-08-11 23:39:21 -0500
+Served asset /team.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:21 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:21 -0500
+Served asset /bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:21 -0500
+Served asset /bootstrap-affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:21 -0500
+Served asset /bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:21 -0500
+Served asset /bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:21 -0500
+Served asset /bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:21 -0500
+Served asset /bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:21 -0500
+Served asset /bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:21 -0500
+Served asset /bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:21 -0500
+Served asset /bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:21 -0500
+Served asset /bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:21 -0500
+Served asset /bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:21 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:21 -0500
+Served asset /bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:21 -0500
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:21 -0500
+Served asset /bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:21 -0500
+Served asset /team.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-11 23:39:21 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/phaseone" for 127.0.0.1 at 2013-08-11 23:41:29 -0500
+Processing by PagesController#phaseone as HTML
+  Rendered pages/phaseone.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_header.html.erb (0.8ms)
+Completed 200 OK in 21ms (Views: 21.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-11 23:41:29 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:29 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-08-11 23:41:29 -0500
+Served asset /pages.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2013-08-11 23:41:29 -0500
+Served asset /team.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:29 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-08-11 23:41:29 -0500
+Served asset /styles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:29 -0500
+Served asset /bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:29 -0500
+Served asset /bootstrap-affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:29 -0500
+Served asset /bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:29 -0500
+Served asset /bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:29 -0500
+Served asset /bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:29 -0500
+Served asset /bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:29 -0500
+Served asset /bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:29 -0500
+Served asset /bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:29 -0500
+Served asset /bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:29 -0500
+Served asset /bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:29 -0500
+Served asset /bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:29 -0500
+Served asset /bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:29 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:29 -0500
+Served asset /bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:29 -0500
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:29 -0500
+Served asset /team.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:29 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-08-11 23:41:52 -0500
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.0ms)
+  Rendered layouts/_header.html.erb (0.8ms)
+Completed 200 OK in 21ms (Views: 20.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-11 23:41:52 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2013-08-11 23:41:52 -0500
+Served asset /team.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:52 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-08-11 23:41:52 -0500
+Served asset /pages.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:52 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-08-11 23:41:52 -0500
+Served asset /styles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:52 -0500
+Served asset /bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:52 -0500
+Served asset /bootstrap-affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:52 -0500
+Served asset /bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:52 -0500
+Served asset /bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:52 -0500
+Served asset /bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:52 -0500
+Served asset /bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:52 -0500
+Served asset /bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:52 -0500
+Served asset /bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:52 -0500
+Served asset /bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:52 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:52 -0500
+Served asset /bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:52 -0500
+Served asset /bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:52 -0500
+Served asset /bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:52 -0500
+Served asset /bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:52 -0500
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:52 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:52 -0500
+Served asset /team.js - 304 Not Modified (0ms)
+
+
+Started GET "/phaseone" for 127.0.0.1 at 2013-08-11 23:41:55 -0500
+Processing by PagesController#phaseone as HTML
+  Rendered pages/phaseone.html.erb within layouts/application (31.9ms)
+  Rendered layouts/_header.html.erb (0.8ms)
+Completed 200 OK in 54ms (Views: 53.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-11 23:41:55 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:55 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:55 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2013-08-11 23:41:55 -0500
+Served asset /team.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-08-11 23:41:55 -0500
+Served asset /styles.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-08-11 23:41:55 -0500
+Served asset /pages.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:55 -0500
+Served asset /bootstrap-affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:55 -0500
+Served asset /bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:55 -0500
+Served asset /bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:55 -0500
+Served asset /bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:55 -0500
+Served asset /bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:55 -0500
+Served asset /bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:55 -0500
+Served asset /bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:55 -0500
+Served asset /bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:55 -0500
+Served asset /bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:55 -0500
+Served asset /bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:55 -0500
+Served asset /bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:55 -0500
+Served asset /bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:55 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:55 -0500
+Served asset /bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:55 -0500
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:55 -0500
+Served asset /team.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-11 23:41:55 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/phaseone" for 127.0.0.1 at 2013-08-11 23:43:49 -0500
+Processing by PagesController#phaseone as HTML
+  Rendered pages/phaseone.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_header.html.erb (0.8ms)
+Completed 200 OK in 23ms (Views: 22.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-11 23:43:49 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-08-11 23:43:49 -0500
+Served asset /pages.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2013-08-11 23:43:49 -0500
+Served asset /team.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-08-11 23:43:49 -0500
+Served asset /styles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-11 23:43:49 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-11 23:43:49 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-08-11 23:43:49 -0500
+Served asset /bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-08-11 23:43:49 -0500
+Served asset /bootstrap-affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-08-11 23:43:49 -0500
+Served asset /bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-08-11 23:43:49 -0500
+Served asset /bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-08-11 23:43:49 -0500
+Served asset /bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-08-11 23:43:49 -0500
+Served asset /bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-08-11 23:43:49 -0500
+Served asset /bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-08-11 23:43:49 -0500
+Served asset /bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-08-11 23:43:49 -0500
+Served asset /bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-08-11 23:43:49 -0500
+Served asset /bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-08-11 23:43:49 -0500
+Served asset /bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-08-11 23:43:49 -0500
+Served asset /bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-08-11 23:43:49 -0500
+Served asset /bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-08-11 23:43:49 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-08-11 23:43:49 -0500
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2013-08-11 23:43:49 -0500
+Served asset /team.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-11 23:43:49 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/phaseone" for 127.0.0.1 at 2013-08-11 23:46:54 -0500
+Processing by PagesController#phaseone as HTML
+  Rendered pages/phaseone.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_header.html.erb (0.8ms)
+Completed 200 OK in 24ms (Views: 23.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-11 23:46:54 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-08-11 23:46:54 -0500
+Served asset /pages.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-11 23:46:54 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2013-08-11 23:46:54 -0500
+Served asset /team.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-08-11 23:46:54 -0500
+Served asset /styles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-11 23:46:54 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-08-11 23:46:54 -0500
+Served asset /bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-08-11 23:46:54 -0500
+Served asset /bootstrap-affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-08-11 23:46:54 -0500
+Served asset /bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-08-11 23:46:54 -0500
+Served asset /bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-08-11 23:46:54 -0500
+Served asset /bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-08-11 23:46:54 -0500
+Served asset /bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-08-11 23:46:54 -0500
+Served asset /bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-08-11 23:46:54 -0500
+Served asset /bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-08-11 23:46:54 -0500
+Served asset /bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-08-11 23:46:54 -0500
+Served asset /bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-08-11 23:46:54 -0500
+Served asset /bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-08-11 23:46:54 -0500
+Served asset /bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-08-11 23:46:54 -0500
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-08-11 23:46:54 -0500
+Served asset /bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-08-11 23:46:54 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2013-08-11 23:46:54 -0500
+Served asset /team.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-11 23:46:54 -0500
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/phaseone" for 127.0.0.1 at 2013-08-11 23:49:23 -0500
+Processing by PagesController#phaseone as HTML
+  Rendered pages/phaseone.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_header.html.erb (0.8ms)
+Completed 200 OK in 22ms (Views: 21.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/team.css?body=1" for 127.0.0.1 at 2013-08-11 23:49:23 -0500
+Served asset /team.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2013-08-11 23:49:23 -0500
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/styles.css?body=1" for 127.0.0.1 at 2013-08-11 23:49:23 -0500
+Served asset /styles.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2013-08-11 23:49:23 -0500
+Served asset /pages.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2013-08-11 23:49:23 -0500
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2013-08-11 23:49:23 -0500
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-transition.js?body=1" for 127.0.0.1 at 2013-08-11 23:49:23 -0500
+Served asset /bootstrap-transition.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-affix.js?body=1" for 127.0.0.1 at 2013-08-11 23:49:23 -0500
+Served asset /bootstrap-affix.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-alert.js?body=1" for 127.0.0.1 at 2013-08-11 23:49:23 -0500
+Served asset /bootstrap-alert.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-button.js?body=1" for 127.0.0.1 at 2013-08-11 23:49:23 -0500
+Served asset /bootstrap-button.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2013-08-11 23:49:23 -0500
+Served asset /bootstrap-carousel.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2013-08-11 23:49:23 -0500
+Served asset /bootstrap-collapse.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2013-08-11 23:49:23 -0500
+Served asset /bootstrap-dropdown.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2013-08-11 23:49:23 -0500
+Served asset /bootstrap-scrollspy.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-modal.js?body=1" for 127.0.0.1 at 2013-08-11 23:49:23 -0500
+Served asset /bootstrap-modal.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2013-08-11 23:49:23 -0500
+Served asset /bootstrap-tooltip.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-popover.js?body=1" for 127.0.0.1 at 2013-08-11 23:49:23 -0500
+Served asset /bootstrap-popover.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-tab.js?body=1" for 127.0.0.1 at 2013-08-11 23:49:23 -0500
+Served asset /bootstrap-tab.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2013-08-11 23:49:23 -0500
+Served asset /bootstrap.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2013-08-11 23:49:23 -0500
+Served asset /bootstrap-typeahead.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2013-08-11 23:49:23 -0500
+Served asset /pages.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/team.js?body=1" for 127.0.0.1 at 2013-08-11 23:49:23 -0500
+Served asset /team.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2013-08-11 23:49:23 -0500
+Served asset /application.js - 304 Not Modified (0ms)
