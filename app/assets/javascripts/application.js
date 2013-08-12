@@ -14,3 +14,9 @@
 //= require jquery_ujs
 //= require bootstrap
 //= require_tree .
+// Carousel Auto-Cycle
+  $(document).ready(function() {
+    $('.carousel').carousel({
+      interval: 6000
+    })
+  });

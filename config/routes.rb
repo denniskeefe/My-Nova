@@ -9,6 +9,8 @@ Chevy::Application.routes.draw do
 
   get 'phasethree' => 'pages#phasethree'
 
+  get 'team' => 'pages#team'
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

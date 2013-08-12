@@ -11,3 +11,130 @@
  *= require_self
  *= require_tree .
  */
+
+/* -- DEFAULTS -- */
+
+html, body {
+  font-family: sans-serif;
+  margin: 0;
+}
+
+html, body, #Grid li {
+  font-size: 14px;
+  line-height: 1.3;
+}
+
+/* responsive images */
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: top;
+}
+
+div, ul, li{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.wrap {
+  max-width: 1000px;
+  width: 96%;
+  margin: 0 auto;
+}
+
+h1{
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+/* -- FLUID GRID STYLES -- */
+
+#Grid{
+  text-align: justify;
+  text-justify: distribute-all-lines;
+  font-size: 0.1px;
+  line-height: 0;
+  /* non-essential */
+  background: #ccddff;
+  margin-bottom: 20px;
+}
+
+/* 4 COL */
+
+#Grid li{
+  display: inline-block;
+  width: 23%;
+  position: relative;
+  vertical-align: top;
+  padding: 0;
+  text-align: left;
+  /* non-essential */
+  background: #fff;
+}
+
+/* n = n + (col + 1) */
+#Grid li:nth-child(n+5) {
+  margin-top: 2.6667%;
+}
+
+#Grid .grid-item > div {
+  border: 1px solid #aaa;
+}
+
+#Grid li span {
+  padding: .3em;
+  display: block;
+}
+
+/* force last row to justify */
+#Grid:after{
+  content: '';
+  display: inline-block;
+  width: 100%;
+}
+
+#Grid .placeholder{
+  height: 0;
+  padding: 0;
+  margin: 0 !important;
+}
+
+/* -- MEDIA QUERIES DEFINING RESPONSIVE LAYOUTS -- */
+
+/* 3 COL */
+
+@media (max-width: 800px){
+  #Grid li{
+    width: 31%;
+  }
+  /* n = n + (col + 1) */
+  #Grid li:nth-child(n+4) {
+    margin-top: 3.5%;
+  }
+ }
+ 
+ /* 2 COL */
+ 
+ @media (max-width: 600px){
+  #Grid li{
+    width: 48%;
+  }
+  /* n = n + (col + 1) */
+  #Grid li:nth-child(n+3) {
+    margin-top: 4%;
+  }
+ }
+ 
+ /* SINGLE COL */
+ 
+ @media (max-width: 400px){
+  #Grid li{
+    width: 100%;
+  }
+  /* n = n + (col + 1) */
+  #Grid li:nth-child(n+2) {
+    margin-top: 5%;
+  }
+ }
