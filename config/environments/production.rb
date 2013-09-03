@@ -1,6 +1,6 @@
 Chevy::Application.configure do
 
-  config.gem 'rack-google-analytics',:lib =>'rack/google-analytics'config.middleware.useRack::GoogleAnalytics,:tracker =>'UA-43034189-1'
+  
   # Settings specified here will take precedence over those in config/application.rb
 
   # Code is not reloaded between requests
